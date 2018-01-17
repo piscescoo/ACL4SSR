@@ -48,7 +48,7 @@ gfwlist-user.rule |  直连  |   是   |  直连  |    无      |     无       
 * SSR-WIN：https://github.com/shadowsocksr/shadowsocksr-csharp/releases
 * SSR-安卓：https://github.com/shadowsocksr/shadowsocksr-android/releases
 
-# ♻️ Surge/Shadowrocket Config File Download：
+# ♻️ Shadowrocket Config File Download：
 * 请到相关项目页面根据说明配置 https://github.com/lhie1/Surge
 
 📋 教程 / 说明：
